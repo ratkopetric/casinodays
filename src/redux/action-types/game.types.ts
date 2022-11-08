@@ -1,0 +1,3 @@
+export enum GAME_ACTIONS {
+  FILTER_CHANGE = 'FILTER_CHANGE',
+}

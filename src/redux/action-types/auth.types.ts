@@ -1,0 +1,3 @@
+export enum AUTH_ACTIONS {
+  SET_ACCOUNT = 'SET_ACCOUNT',
+}
